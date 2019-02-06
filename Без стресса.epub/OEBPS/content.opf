@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:type>Психология</dc:type>
+    <meta content="Adobe InDesign 13.0" name="generator" />
+    <dc:title>Без стресса</dc:title>
+    <dc:creator>Митху Сторони</dc:creator>
+    <dc:subject />
+    <dc:description>Автор выделяет семь параметров, отражающих негативное воздействие стресса на организм, и приводит подробные обоснования и рекомендации.</dc:description>
+    <dc:publisher>Манн, Иванов и Фербер</dc:publisher>
+    <dc:date>2019</dc:date>
+    <dc:source />
+    <dc:relation />
+    <dc:coverage />
+    <dc:rights>© 2017 by Mithu Storon All rights reserved including the right of reproduction in whole or in part in any form. This edition published by arrangement with TarcherPerigee, an imprint of Penguin Publishing Group, a division of Penguin Random House LLC.</dc:rights>
+    <dc:rights>© Перевод на русский язык, издание на русском языке, оформление. ООО «Манн, Иванов и Фербер», 2019</dc:rights>
+    <dc:language>ru-RU</dc:language>
+    <dc:rights />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2018-10-15</dc:date>
+    <dc:identifier id="bookid" opf:scheme="ISBN">9785001176336</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item href="Text/end.xhtml" id="end.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css" />
+    <item href="Fonts/pt_mono.otf" id="pt_mono.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_mono_bold.otf" id="pt_mono_bold.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_narrow.otf" id="pt_narrow.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_narrow_bold.otf" id="pt_narrow_bold.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_sans.otf" id="pt_sans.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_sans_bold.otf" id="pt_sans_bold.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_sans_bold_italic.otf" id="pt_sans_bold_italic.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_sans_italic.otf" id="pt_sans_italic.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_serif.otf" id="pt_serif.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_serif_bold.otf" id="pt_serif_bold.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_serif_bold_italic.otf" id="pt_serif_bold_italic.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/pt_serif_italic.otf" id="pt_serif_italic.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Text/tb.xhtml" id="tb.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/title1.xhtml" id="title1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/title2.xhtml" id="title2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/inf.xhtml" id="inf.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/posv.xhtml" id="posv.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/vv.xhtml" id="vv.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g1.xhtml" id="g1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g2.xhtml" id="g2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g3.xhtml" id="g3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g4.xhtml" id="g4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g5.xhtml" id="g5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g6.xhtml" id="g6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g7.xhtml" id="g7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g8.xhtml" id="g8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/g9.xhtml" id="g9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/zakl.xhtml" id="zakl.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/about.xhtml" id="about.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/thanks.xhtml" id="thanks.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/nz.xhtml" id="nz.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/links.xhtml" id="links.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/self.xhtml" id="self.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/fb.jpg" id="fb.jpg" media-type="image/jpeg" />
+    <item href="Images/ig.jpg" id="ig.jpg" media-type="image/jpeg" />
+    <item href="Images/tele.jpg" id="tele.jpg" media-type="image/jpeg" />
+    <item href="Images/vk.jpg" id="vk.jpg" media-type="image/jpeg" />
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notes.xhtml" id="notes.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n1.xhtml" id="n1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n2.xhtml" id="n2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n3.xhtml" id="n3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n4.xhtml" id="n4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n5.xhtml" id="n5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n6.xhtml" id="n6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n7.xhtml" id="n7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n8.xhtml" id="n8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/n9.xhtml" id="n9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="tb.xhtml" />
+    <itemref idref="title1.xhtml" />
+    <itemref idref="title2.xhtml" />
+    <itemref idref="inf.xhtml" />
+    <itemref idref="posv.xhtml" />
+    <itemref idref="vv.xhtml" />
+    <itemref idref="g1.xhtml" />
+    <itemref idref="g2.xhtml" />
+    <itemref idref="g3.xhtml" />
+    <itemref idref="g4.xhtml" />
+    <itemref idref="g5.xhtml" />
+    <itemref idref="g6.xhtml" />
+    <itemref idref="g7.xhtml" />
+    <itemref idref="g8.xhtml" />
+    <itemref idref="g9.xhtml" />
+    <itemref idref="zakl.xhtml" />
+    <itemref idref="thanks.xhtml" />
+    <itemref idref="about.xhtml" />
+    <itemref idref="notes.xhtml" />
+    <itemref idref="n1.xhtml" />
+    <itemref idref="n2.xhtml" />
+    <itemref idref="n3.xhtml" />
+    <itemref idref="n4.xhtml" />
+    <itemref idref="n5.xhtml" />
+    <itemref idref="n6.xhtml" />
+    <itemref idref="n7.xhtml" />
+    <itemref idref="n8.xhtml" />
+    <itemref idref="n9.xhtml" />
+    <itemref idref="nz.xhtml" />
+    <itemref idref="links.xhtml" />
+    <itemref idref="TOC.xhtml" />
+    <itemref idref="self.xhtml" />
+    <itemref idref="end.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/title1.xhtml" title="Титульная страница" type="title-page" />
+    <reference href="Text/TOC.xhtml" title="Оглавление" type="toc" />
+    <reference href="Text/cover.xhtml" title="Обложка" type="cover" />
+  </guide>
+</package>
